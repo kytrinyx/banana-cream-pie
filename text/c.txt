@@ -1,7 +1,4 @@
 minus
-bacon wrapped dates with goat cheese
-a
-aaa
 aaaaaaa
 aaa
 a
@@ -11,10 +8,10 @@ bbbbbbb
 ddddd
 ddddd
 ddddd
-ddddd
 cccccc
 ccc
 c
+ddd
 cc
 cccc
 ccccc
