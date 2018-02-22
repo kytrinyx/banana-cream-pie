@@ -2,6 +2,10 @@
 
 Nothing to see here, folks.
 
+## Ingredients
+
+Bananas. And cream. And PIE.
+
 ## Usage
 
 Basically just ignore it.
