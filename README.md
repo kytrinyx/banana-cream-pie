@@ -2,6 +2,8 @@
 
 Nothing to see here, folks.
 
+Add banana note.
+
 ## Usage
 
 Basically just ignore it.
