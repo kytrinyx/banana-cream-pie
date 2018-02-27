@@ -2,6 +2,10 @@
 
 Nothing to see here, folks.
 
+## Details
+
+This is to test the banana detection app.
+
 ## Usage
 
 Basically just ignore it.
